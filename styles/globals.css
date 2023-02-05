@@ -43,8 +43,8 @@ body {
   overflow: hidden;
 }
 .loader-container {
-  display: grid;
-  place-items: center;
+  display: grid !important;
+  place-items: center !important;
   position: absolute;
   top: 0%;
   left: 0%;
